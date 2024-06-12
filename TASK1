@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+	<html lang=en>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-comaptible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Royal And Unique Florals</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+		<link href="style.css" rel="stylesheet" type="text/css">
+<header>
+	<input type="checkbox" name="" id="toggler">
+	<label for="toggler" class="fas fa-bars"></label>
+
+	<a href="#" class="logo">Floral<span>.</span></a>
+	<nav class="navbar">
+		<a href="#home">Home</a>
+		<a href="#About">About</a>
+		<a href="#product">Products</a>
+		<a href="#Review">Review</a>
+		<a href="#Contact">Contact</a>
+</nav>
+	<div class="icons">
+		<a href="#" class="fas fa-heart"></a>
+		<a href="cart.html" class="fas fa-shopping-cart"></a></i>
+		<a href="Login.html" class="fas fa-user"></a>
+</div>		
+</header>
+	<section class="home" id="home">
+	<div class="content">
+		<h6 class="heading">Blooming<br>Boutique</h6>
+		<span>Petal Palace: Royal And Unique Flowers</span>
+		<p>Happiness Is Fresh Flowers in each and every beautiful occasion of life. Every flower is a soul blossoming in nature.Let your every Occasion be beautiful and unique. a promise to give you special and beautiful flowers to make your occasion special, happy and cheerful</p>
+		<p><b>To See Offers Click below On SHOP NOW</b></p>
+		<a href="Shopnow.html" class="btn">Shop Now</a>
+	</div>
+</section>
+	<section class="About" id="About">
+	<h1 class="heading">About Us</h1>
+	<div class="row">
+	<div class="video-container">
+	<video src="pink floral.mp4" loop autoplay muted></video>
+	<h3>Best Florists</h3>
+</div>
+	<div class="content">
+	<h3>Why Choose Us?</h3>
+	<p>Known as Blooming Boutique we inlude every type of flowers available of each and every occasion. That's the most beautiful things we are presenting for you which is our flowers are fresh and you can arrange them the way you want too or you can let us know the way you want. We are known as the best florists in the area. We bring the most delicate. unique, amazing flowers which are needed for your occasion. Will try our best to make your each and every occasion beautiful. Flowers are somethings which makes the home beautiful, it gives amazing vibes</p>
+	<p>We would be glad to be a part of your auspcious occasion by serving your auspicious special day with floral things.</p>
+	<a href="learn.html" class="btn">Learn More</a>
+</div>
+</div>
+</section>
+	<section class="product" id="product">
+
+	<h1 class="heading">Latest Products</h1>
+	<div class="box-container">
+	<div class="box">
+	<span class="discount">-10%</span>
+	<div class="image">
+		<img src="bouquet2.jpeg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: A-22034</h2>
+	<h3>Pastel Bouquet</h3>
+	<div class="price">₹300-<span>₹1000</span></div>
+	     <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+	<div class="box">
+	<span class="discount">-15%</span>
+	<div class="image">
+		<img src="dark pink bouquet.jpeg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: R-47594</h2>
+	<h3>Dark Pink Tulips Bouquet</h3><p>Seasonal</p>
+	<div class="price">₹3000-<span>₹6000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-5%</span>
+	<div class="image">
+		<img src="flower basket.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: s-28323</h2>
+	<h3>Flower Basket</h3>
+	<div class="price">₹3000-<span>₹10,000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-30%</span>
+	<div class="image">
+		<img src="Marigold garlands.jpeg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: Y-47567</h2>
+	<h3>Marigold Garlands</h3>
+	<div class="price">₹2,500-<span>₹4,500</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-2%</span>
+	<div class="image">
+		<img src="garland1.jpeg" alt="" height="300" width="300" >	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: A-53535</h2>
+	<h3>Wedding Garlands</h3>
+	<div class="price">₹2000-<span>₹4000 pair</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-13%</span>
+	<div class="image">
+		<img src="Garlands2.jpeg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code:I-63363</h2>
+	<h3>White Pink Garlands</h3><p>Seasonal</p>
+	<div class="price">₹650-<span>₹1000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-26%</span>
+	<div class="image">
+		<img src="pink purple theme.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code:N-64664</h2>
+	<h3>Pink Purple Theme</h3><p>Seasonal</p>
+	<div class="price">₹1000-<span>₹2500</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-37%</span>
+	<div class="image">
+		<img src="yellow roses .jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: C-64643</h2>
+	<h3>Yellow Roses Bouquet/Basket</h3>
+	<div class="price">₹500-<span>₹1500</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-23%</span>
+	<div class="image">
+		<img src="red rose.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+			<a href="#" class="fa fa-heart"></a>
+			<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+			<a href="#" class="fa fa-share"></a>
+		</div>
+	</div>
+	<div class="content">
+		<h2>Product Code: F-64533</h2>
+		<h3>Red Roses Bouquet</h3>
+		<div class="price">₹2000-<span>₹10,000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+	</div>
+</div>
+	</section>
+	<section class="product" id="product">
+
+	<h1 class="heading">More Products</h1>
+	<div class="box-container">
+	<div class="box">
+	<span class="discount">-10%</span>
+	<div class="image">
+		<img src="floral basket.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: A-22035</h2>
+	<h3>Traditional Basket</h3>
+	<div class="price">₹300-<span>₹1000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+	<div class="box">
+	<span class="discount">-15%</span>
+	<div class="image">
+		<img src="resin jewellery.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: E-45334</h2>
+	<h3>Flower resin jewellery.</h3><p>for a perfect nature lover. and amazing gift item</p>
+	<div class="price">₹10-<span>₹6000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-5%</span>
+	<div class="image">
+		<img src="orchid flowers.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: A-93763</h2>
+	<h3>Beautiful, gorgeous flowers.</h3>
+	<div class="price">₹3000-<span>₹10,000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-30%</span>
+	<div class="image">
+		<img src="tiara.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: K-13432</h2>
+	<h3>Floral Tiara</h3>
+	<div class="price">₹15-<span>₹350</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-2%</span>
+	<div class="image">
+		<img src="sunflowers.jpg" alt="" height="300" width="300" >	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="payment form.html" i class="fab fa-amazon-pay">buy<span>now</span></i></a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: M-35353</h2>
+	<h3>Sunflower Flowers</h3>
+	<div class="price">₹21-<span>₹100</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+<div class="box">
+	<span class="discount">-13%</span>
+	<div class="image">
+		<img src="all types lotus.jpg" alt="" height="300" width="300">	
+		<div class="icons">
+		<a href="#" class="fa fa-heart"></a>
+		<a href="cart.html" class="cart-btn">add to cart</a>
+		<a href="#" class="fa fa-share"></a>
+</div>
+</div>
+<div class="content">
+	<h2>Product Code: W-35547</h2>
+	<h3>All Types Of Lotus</h3><p> We have variety of lotus flowers.All are fresh with natural colours of the flower without any chemicals. These lotus stay for longer time as they are kept in water and the water is changed whenever required. We can make them as you wish in types of garland or single lotus also.</p>
+	<div class="price">₹20-<span>₹10,000</span></div>
+   <input type="number" id="quantity" placeholder="Quantity" required>
+</div>
+</div>
+	</section>
+	<section class="Review" id="Review">
+	<h1 class="heading">Customer's <span>Review</span></h1>
+	<div class="box-container">
+	<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+</div>
+	<p>Thank you so much for beautiful flowers bouquet. From UK. I gave it to my boss and he was really impressed by looking at the flowers. It was his birthday, he love flowers and really it was my first experience with this floral mart and really got an amazing experience. The delivery was on time and even the flowers were fresh</p>
+	<div class="user">
+	<img src="person1.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>WILLIAM S, Employee</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+</div>
+	<p>Thank you so much for the traditonal wall hanging. It is nice and very light weight. It changed the look of my home and looks so grand and amazing. i use to pluck flowers even for puja. All your floral collections are really very pretty and beautiful.</p>
+	<div class="user">
+	<img src="person2.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>PREM A, Technical Manager</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star-half"></i>
+</div>
+	<p>Thank you much for the special designed flowers. My friend loved them a lot. they were fresh till her birthday party and it's her favourite flowers. Everyone liked them</p>
+	<div class="user">
+	<img src="person3.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>AMEY W, Youtuber</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+</div>
+	<p>Hi!! This is Vaibhavii. Thank you so much for the floral tiara and bouquet of flowers. The tiara is ver pretty and so delicate. It looks beautiful and sweet. Even the floral bouquet i ordered for my friend she loved the flowers and they weren't faded.</p>
+	<div class="user">
+	<img src="women1.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>VAIBHAVII, Blogger</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+</div>
+	<p>This is Riya from Chennai. I had ordered a beautiful orchid bouquet to gift everyone who were invited for my baby shower. Seriously this was my first experience with you and it was so great. Every flower was so fresh and the packaging was also amazing.</p> 
+	<div class="user">
+	<img src="women2.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>RIYA, Doctor</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+<div class="box">
+	<div class="stars">
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star"></i>
+		<i class="fa fa-star-half"></i>
+</div>
+	<p>This is Shruti from Banglore. I had ordered resin jewellery. I love to wear pendants and earrings. Really the jewellery so so great. The flower petal was perfect and didn't dried. I ordered more to gift to my sister and friends as Christmas gifts</p>  
+	<div class="user">
+	<img src="women3.jpg" height="100" width="100">
+	<div class="user-info">
+	<h3>SHRUTI S, Student</h3>
+	<span>HAPPY CUSTOMER</span>
+	</div>
+	</div>
+		<span class="fa fa-quote-right"></span>
+</div>
+</div>
+</section>
+	<section class="Contact" id="Contact">
+	<h1 class="heading"><span>Contact </span>Us</h1>
+	<div class="row">
+		<form action="">
+			<input type: "text" placeholder="name" class="box">
+			<input type: "email" placeholder="email" class="box">
+			<input type: "number" placeholder="number" class="box">
+			<textarea name="" class="box" placeholder="message" id="" cols="30" rows="10"></textarea>
+			<input type="submit" value="send message" class="btn">
+</form>		
+	<div class="image">
+	<img src="wallppaer.jpg" alt="">
+	</div>
+</div>
+</section>
+<section class="footer">
+<div class="box-container"> 
+	<div class="box">
+	<h3>Quick Links</h3>
+	<a href="#home">Home</a>
+	<a href="#About">About</a>
+	<a href="#product">Products</a>
+	<a href="#Review">Review</a>
+	<a href="#Contact">Contact</a>
+</div>
+	<div class="box">
+	<h3>Extra Links</h3>
+	<a href="#">My Account</a>
+	<a href="#">My Order</a>
+	<a href="#">My Favourite</a>
+</div>
+<div class="box">
+	<h3>Locations</h3>
+	<a href="#">India</a>
+	<a href="#">UAE</a>
+</div>
+<div class="box">
+	<h3>Contact-Info</h3>
+	<a href="#">+91 123-456-7890</a>
+	<a href="#">BloomingBoutique@gmail.com</a>
+	<a href="#">Pune, Maharashtra:411016 India</a>
+</div>
+</div>
+<div class="credit">Created By <span>Blooming Boutique, Petal Palace: Royal And Unique Flowers</span> // all rights reserved </div>
+</section>
+</body>		
+</html>
