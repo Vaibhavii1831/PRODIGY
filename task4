@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name | Web Developer </title>
+    <link rel="stylesheet" href="PORTFOLIO.CSS">
+</head>
+<body>
+    <!-- Home Section -->
+    <section id="home">
+        <div class="home-content">
+            <h1>Hello, I'm VAIBHAVII S. SHINDEY</h1>
+	<h2>MBA Human Resource</h2>
+            <h2>Web Developer</h2>
+            <img src="images.JPG" alt="VAIBHAVII S. SHINDEY">
+            <p>Creating elegant solutions in web development.</p>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am A passionate learner in knowning new things.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <img src="tictac.JPG" alt="Project 1">
+            <h3>Project Title 1</h3>
+            <p>I have develop tic tac toe game using html and css as my project</p>
+            <a href="tictactoe.html">View Project</a>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skill-category">
+            <h3>Front-End</h3>
+            <p>HTML, CSS, JavaScript, React</p>
+        </div>
+        <!-- Add more skill categories as needed -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <form action="send-message.php" method="post">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+            <a href="https://github.com/yourprofile">GitHub</a>
+            <!-- Add more social links as needed -->
+        </div>
+    </section>
+</body>
+</html>
